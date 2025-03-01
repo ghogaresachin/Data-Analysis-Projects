@@ -39,7 +39,7 @@ This analysis highlights that factors like room allocation, booking season, and 
 
 ---
 
-The snapshot of the dashboard is attached in the below link.
+The snapshot of the dashboard is attached.
 ![Image Alt Text](https://github.com/ghogaresachin/Data-Analysis-Projects/blob/master/Hotel%20Booking%20Analysis/Screenshot%202025-03-01%20162004.png?raw=true)
 
 
