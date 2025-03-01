@@ -40,6 +40,6 @@ This analysis highlights that factors like room allocation, booking season, and 
 ---
 
 The snapshot of the dashboard is attached in the below link.
-![Image Alt Text]("C:\python\Data_Analysis_Projects\Hotel Booking Analysis\Screenshot 2025-03-01 162004.png")
+![Image Alt Text](["C:\python\Data_Analysis_Projects\Hotel Booking Analysis\Screenshot 2025-03-01 162004.png"](https://github.com/ghogaresachin/Data-Analysis-Projects/blob/master/Hotel%20Booking%20Analysis/Screenshot%202025-03-01%20162004.png))
 
 
